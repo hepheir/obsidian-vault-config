@@ -1,0 +1,11 @@
+# =============================
+# Vault Specific
+# =============================
+workspace.json
+
+# =============================
+# Plugin Specific
+# =============================
+
+# Image Converter
+image-converter-image-alignments.json
