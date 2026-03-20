@@ -221,10 +221,10 @@
   "modalBehavior": "never",
   "singleImageModalSettings": {
     "conversionPresetName": "None",
-    "outputFormat": "NONE",
-    "quality": 100,
+    "outputFormat": "JPEG",
+    "quality": 40,
     "colorDepth": 1,
-    "resizeMode": "None",
+    "resizeMode": "Fit",
     "desiredWidth": 800,
     "desiredHeight": 600,
     "desiredLongestEdge": 1000,
