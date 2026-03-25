@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPaperclip",
+      "LiBackpack",
       "LiBookA",
       "LiAnvil",
-      "LiAlbum",
-      "LiNotebookPen",
-      "LiPaperclip"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,7 @@
   "notes": "LiNotebookPen",
   "templates": "LiAlbum",
   "projects": "LiAnvil",
-  "notes/book-crafting-interfaces": "LiBookA"
+  "notes/book-crafting-interfaces": "LiBookA",
+  "notes/[SSAFY] AI 강의Ⅱ": "LiBackpack",
+  "attachments": "LiPaperclip"
 }
