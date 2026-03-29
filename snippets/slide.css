@@ -1,0 +1,49 @@
+.slides {
+    font-size: 20px;
+}
+
+.slides * {
+    line-height: 1.3em;
+    text-align: left;
+    vertical-align: top;
+}
+
+.slides :is(h1, h2, h3, h4, h5, h6, p) {
+    text-align: left;
+    margin-top: var(--r-block-margin);
+ }
+
+.slides :is(ul, ol) {
+    margin-right: 1em;
+}
+
+.slides blockquote {
+    text-align: center;
+}
+
+.slides .callout-title {
+    margin-top: 0.5em;
+}
+
+.slides .callout-content {
+    font-size: 0.8em;
+}
+
+.slides pre {
+    width: 100%;
+    padding: 0.5em 1.0em;
+    border-radius: var(--radius-m);
+    box-shadow: var(--input-shadow);
+}
+
+.slides .copy-code-button {
+    opacity: 0.5;
+    transform: scale(0.5);
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.slides .copy-code-button:hover {
+    opacity: 1;
+}

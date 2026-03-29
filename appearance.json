@@ -1,3 +1,6 @@
 {
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "slide"
+  ]
 }

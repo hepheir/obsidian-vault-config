@@ -4,5 +4,11 @@
       "modifiers": [],
       "key": "F5"
     }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
   ]
 }
