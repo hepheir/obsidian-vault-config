@@ -2,6 +2,7 @@
 # Vault Specific
 # =============================
 workspace.json
+workspaces.json
 
 # =============================
 # Plugin Specific

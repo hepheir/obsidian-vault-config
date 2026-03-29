@@ -2,5 +2,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachments",
   "newLinkFormat": "absolute",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "focusNewTab": false
 }
