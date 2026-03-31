@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBaby",
-      "LiPaperclip",
-      "LiBackpack",
-      "LiBookA",
-      "LiAnvil"
+      "LiArchive",
+      "LiAlignJustify",
+      "LiDatabase",
+      "LiBadgeDollarSign",
+      "LiNewspaper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,10 @@
   "notes/book-crafting-interfaces": "LiBookA",
   "notes/[SSAFY] AI 강의Ⅱ": "LiBackpack",
   "attachments": "LiPaperclip",
-  "recruit": "LiBaby"
+  "recruit": "LiBaby",
+  "documents": "LiNewspaper",
+  "documents/[SSAFY] 스터디 관련 문서": "LiBackpack",
+  "documents/[SSAFY] 자치회 구매 품목": "LiBadgeDollarSign",
+  "documents/[SSAFY] 자치회 구매 품목/품목": "LiArchive",
+  "documents/[SSAFY] 자치회 구매 품목/활동비 사용 내역.base": "LiDatabase"
 }
