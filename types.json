@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "단가": "number",
+    "수량": "number",
+    "날짜": "date",
+    "구매자": "multitext"
+  }
+}
