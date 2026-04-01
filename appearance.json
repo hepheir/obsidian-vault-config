@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "slide"
   ],
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "cssTheme": "",
+  "accentColor": ""
 }
