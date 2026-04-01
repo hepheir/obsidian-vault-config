@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBaby",
+      "LiSchool",
+      "LiCalendar",
       "LiArchive",
-      "LiAlignJustify",
-      "LiDatabase",
-      "LiBadgeDollarSign",
-      "LiNewspaper"
+      "LiAlignJustify"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,9 @@
   "documents/[SSAFY] 스터디 관련 문서": "LiBackpack",
   "documents/[SSAFY] 자치회 구매 품목": "LiBadgeDollarSign",
   "documents/[SSAFY] 자치회 구매 품목/품목": "LiArchive",
-  "documents/[SSAFY] 자치회 구매 품목/활동비 사용 내역.base": "LiDatabase"
+  "documents/[SSAFY] 자치회 구매 품목/활동비 사용 내역.base": "LiDatabase",
+  "recruit/2026 상반기": "LiCalendar",
+  "profile/수강 과목 이력": "LiArchive",
+  "profile/수강 과목 이력.base": "LiDatabase",
+  "profile": "LiBaby"
 }

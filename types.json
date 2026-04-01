@@ -6,6 +6,10 @@
     "단가": "number",
     "수량": "number",
     "날짜": "date",
-    "구매자": "multitext"
+    "구매자": "multitext",
+    "성적": "text",
+    "학년도": "number",
+    "이수구분": "multitext",
+    "취득학점": "number"
   }
 }
