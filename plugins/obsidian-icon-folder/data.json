@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMicVocal",
+      "LiBackpack",
       "LiBaby",
       "LiSchool",
-      "LiCalendar",
-      "LiArchive",
-      "LiAlignJustify"
+      "LiCalendar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,6 @@
   "recruit/2026 상반기": "LiCalendar",
   "profile/수강 과목 이력": "LiArchive",
   "profile/수강 과목 이력.base": "LiDatabase",
-  "profile": "LiBaby"
+  "profile": "LiBaby",
+  "conference": "LiMicVocal"
 }
