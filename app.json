@@ -4,5 +4,5 @@
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
   "showLineNumber": true,
-  "focusNewTab": false
+  "focusNewTab": true
 }
