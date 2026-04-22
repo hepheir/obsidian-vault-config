@@ -3,6 +3,11 @@
   "attachmentFolderPath": "attachments",
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
-  "showLineNumber": true,
-  "focusNewTab": true
+  "showLineNumber": false,
+  "focusNewTab": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "spellcheck": false,
+  "autoPairMarkdown": false,
+  "trashOption": "local"
 }
