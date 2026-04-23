@@ -4,6 +4,6 @@
   "showFileContextMenuItem": true,
   "executeTemplate": "code \"{{vaultpath}}\" \"{{vaultpath}}/{{filepath}}\"",
   "urlProtocol": "vscode",
-  "openFile": true,
+  "openFile": false,
   "workspacePath": "{{vaultpath}}"
 }
