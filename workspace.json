@@ -2,77 +2,13 @@
   "main": {
     "id": "d30c86287d153d3b",
     "type": "split",
-    "children": [
-      {
-        "id": "55907ca4361ebbc5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8452e03939c9ab53",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "vertical"
   },
   "left": {
     "id": "fdcfd0074daa62d1",
     "type": "split",
-    "children": [
-      {
-        "id": "cf92182b398cce16",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aeecc0308f925659",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
-            }
-          },
-          {
-            "id": "207188cbfd98d832",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "검색"
-            }
-          },
-          {
-            "id": "5c1fe71aff5729e8",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "북마크"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300
   },
@@ -217,10 +153,6 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "8452e03939c9ab53",
-  "lastOpenFiles": [
-    "daily/2026-03-29.md",
-    "templates/{{date}}.md",
-    "daily/2026-03-30.md"
-  ]
+  "active": "371309103945ba9d",
+  "lastOpenFiles": []
 }
