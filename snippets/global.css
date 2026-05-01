@@ -1,0 +1,29 @@
+.markdown-source-view.mod-cm6 .code-block-flair {
+  top: 0;
+}
+
+.markdown-source-view.mod-cm6
+  .cm-line.HyperMD-codeblock:not(.HyperMD-list-line) {
+  line-height: var(--line-height-normal);
+}
+
+.theme-light {
+  --code-background: #fafafa;
+  --code-normal: #000080;
+  --code-comment: #008000;
+  --code-function: #267f99;
+  /* --code-keyword: #0000ff; */
+  --code-keyword: #af00db;
+  --code-operator: #000000;
+  --code-property: #001080;
+  --code-punctuation: #ee0000;
+  --code-string: #a31515;
+  --code-tag: #800000;
+  --code-value: #098658;
+}
+
+
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+}

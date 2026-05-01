@@ -1,7 +1,8 @@
 {
   "translucency": true,
   "enabledCssSnippets": [
-    "slide"
+    "slide",
+    "global"
   ],
   "theme": "moonstone",
   "cssTheme": "",
