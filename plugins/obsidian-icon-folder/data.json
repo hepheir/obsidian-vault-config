@@ -9,8 +9,11 @@
       "LiMicVocal",
       "LiBackpack",
       "LiBaby",
-      "LiSchool",
-      "LiCalendar"
+      "LiCalendar",
+      "LiLayoutDashboard",
+      "LiNewspaper",
+      "LiPenTool",
+      "LiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +55,8 @@
   "profile/수강 과목 이력": "LiArchive",
   "profile/수강 과목 이력.base": "LiDatabase",
   "profile": "LiBaby",
-  "conference": "LiMicVocal"
+  "conference": "LiMicVocal",
+  "study": "LiPenTool",
+  "study/notes": "LiNewspaper",
+  "study/canvas": "LiLayoutDashboard"
 }
