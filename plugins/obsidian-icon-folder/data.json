@@ -5,17 +5,8 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "LiMicVocal",
-      "LiBackpack",
-      "LiBaby",
-      "LiCalendar",
-      "LiLayoutDashboard",
-      "LiNewspaper",
-      "LiPenTool",
-      "LiSchool"
-    ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 32,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -57,6 +48,9 @@
   "profile": "LiBaby",
   "conference": "LiMicVocal",
   "study": "LiPenTool",
-  "study/notes": "LiNewspaper",
-  "study/canvas": "LiLayoutDashboard"
+  "study/canvas": "LiLayoutDashboard",
+  "study/notes/database": "LiDatabase",
+  "study/notes": "LiNotebookPen",
+  "templates/{{date}}.md": "LiCalendarX",
+  "templates/Untitled.md": "LiFileX"
 }
