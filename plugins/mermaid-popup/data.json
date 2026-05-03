@@ -38,7 +38,7 @@
     "60": "60"
   },
   "open_btn_pos_x": "16",
-  "open_btn_pos_y": "16",
+  "open_btn_pos_y": "32",
   "bgColorLight": "rgba(255,255,255, 0.5)",
   "bgColorDark": "rgba(51,51,51, 0.5)",
   "bgAlpha": "0.5",
