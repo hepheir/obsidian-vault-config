@@ -5,8 +5,10 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
-    "recentlyUsedIconsSize": 32,
+    "recentlyUsedIcons": [
+      "LiWrench"
+    ],
+    "recentlyUsedIconsSize": 1,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -22,7 +24,7 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconsInLinksEnabled": true,
+    "iconsInLinksEnabled": false,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
@@ -52,5 +54,6 @@
   "study/notes/database": "LiDatabase",
   "study/notes": "LiNotebookPen",
   "templates/{{date}}.md": "LiCalendarX",
-  "templates/Untitled.md": "LiFileX"
+  "templates/Untitled.md": "LiFileX",
+  "reverse-engineering": "LiWrench"
 }
