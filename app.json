@@ -5,7 +5,7 @@
   "newFileLocation": "current",
   "showLineNumber": false,
   "focusNewTab": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "strictLineBreaks": false,
   "spellcheck": false,
   "autoPairMarkdown": false,
