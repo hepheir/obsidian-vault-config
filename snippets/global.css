@@ -2,8 +2,7 @@
   top: 0;
 }
 
-.markdown-source-view.mod-cm6
-  .cm-line.HyperMD-codeblock:not(.HyperMD-list-line) {
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock:not(.HyperMD-list-line) {
   line-height: var(--line-height-normal);
 }
 
@@ -22,8 +21,17 @@
   --code-value: #098658;
 }
 
-
 .mermaid svg {
   max-width: 100%;
   height: auto;
+}
+
+.markdown-embed {
+  padding: var(--size-4-6) 0;
+  border-radius: var(--bases-cards-radius);
+  border: 1px solid var(--bases-embed-border-color);
+}
+
+.markdown-embed:hover {
+  box-shadow: var(--bases-cards-shadow-hover);
 }
