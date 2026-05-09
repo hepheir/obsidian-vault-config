@@ -5,8 +5,8 @@
   "darkTheme": "dark-plus",
   "lightTheme": "light-plus",
   "preferThemeColors": true,
-  "inlineHighlighting": true,
+  "inlineHighlighting": false,
   "ecDefaultShowLineNumbers": true,
   "ecDefaultWrap": false,
-  "ecDefaultFrame": "auto"
+  "ecDefaultFrame": "none"
 }
