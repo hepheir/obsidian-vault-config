@@ -2,7 +2,8 @@
   "translucency": true,
   "enabledCssSnippets": [
     "slide",
-    "global"
+    "global",
+    "variables"
   ],
   "theme": "system",
   "cssTheme": "",
