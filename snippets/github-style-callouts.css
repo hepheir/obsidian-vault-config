@@ -1,0 +1,82 @@
+/* Base callout styling to match GitHub's layout */
+.callout {
+    /* Remove default background and styling */
+    background: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+
+    /* Add GitHub-style left border - using rgb() to make it visible */
+    /* border-left: var(--blockquote-border-thickness) solid rgb(var(--callout-color)) !important; */
+    border-left: .25em solid rgb(var(--callout-color)) !important;
+
+    /* GitHub-style padding and margins - matching GitHub's exact spacing */
+    padding: 8px 16px !important;
+}
+
+/* Remove background from callout content */
+.callout-content {
+    background: transparent !important;
+    padding: 0 !important;
+}
+
+/* Ensure first child has no top margin */
+.callout-content > :first-child {
+    margin-top: 0 !important;
+}
+
+/* Ensure last child has no bottom margin */
+.callout-content > :last-child {
+    margin-bottom: 0 !important;
+}
+
+/* GitHub-style title styling */
+.callout-title {
+    /* Keep existing icon and color but adjust layout */
+    display: flex !important;
+    align-items: center !important;
+    line-height: 1 !important;
+    margin-bottom: 8px !important;
+    gap: var(--size-4-2);
+    /* Note: Not changing font-weight, font-size, or colors as requested */
+}
+
+/* Remove any default callout border radius and shadows */
+.callout-title-inner {
+    background: transparent !important;
+}
+
+/* Ensure nested content maintains GitHub-style spacing */
+.callout .callout {
+    margin-left: 0 !important;
+    margin-top: 8px !important;
+}
+
+div.callout[data-callout="note"],
+div.callout[data-callout="NOTE"] {
+    --callout-color: 9, 105, 218;
+    --callout-icon: "lucide-info";
+}
+
+div.callout[data-callout="tip"],
+div.callout[data-callout="TIP"] {
+    --callout-color: 26, 127, 55;
+    --callout-icon: "lucide-lightbulb";
+}
+
+div.callout[data-callout="important"],
+div.callout[data-callout="IMPORTANT"] {
+    --callout-color: 130, 80, 223;
+    --callout-icon: "lucide-message-square-warning";
+}
+
+div.callout[data-callout="warning"],
+div.callout[data-callout="WARNING"] {
+    --callout-color: 154, 103, 0;
+    --callout-icon: "lucide-triangle-alert";
+}
+
+div.callout[data-callout="caution"],
+div.callout[data-callout="CAUTION"] {
+    --callout-color: 209, 36, 47;
+    --callout-icon: "lucide-octagon-alert";
+}

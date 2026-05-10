@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "slide",
     "global",
-    "variables"
+    "variables",
+    "github-style-callouts"
   ],
   "theme": "system",
   "cssTheme": "",
