@@ -8,7 +8,69 @@
   "left": {
     "id": "fdcfd0074daa62d1",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "1d687d5cf9bf77db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2388811eec1f2c53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "87816326d50c2b1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "b073ff77a8b7dfb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "dff838431bd451db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300
   },
@@ -19,6 +81,7 @@
       {
         "id": "1550789ec3956738",
         "type": "tabs",
+        "dimension": 64,
         "children": [
           {
             "id": "f3abdac974cc9afc",
@@ -41,17 +104,7 @@
             }
           },
           {
-            "id": "fc68a84f28de8206",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "503c681f7775f614",
+            "id": "57f2930b103a8c5e",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -66,6 +119,7 @@
       {
         "id": "37c775029ee5bf78",
         "type": "tabs",
+        "dimension": 36,
         "children": [
           {
             "id": "032f32fcc915c71c",
@@ -73,64 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "개요"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d4d90411659b1c5a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "079e5e3960689286",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "나가는 링크"
-            }
-          },
-          {
-            "id": "7d820153beffbc02",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "백링크"
-            }
-          },
-          {
-            "id": "b073ff77a8b7dfb9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "태그"
             }
           },
           {
@@ -146,13 +148,45 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "079e5e3960689286",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "... 의 나가는 링크"
+            }
+          },
+          {
+            "id": "7d820153beffbc02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "... 의 백링크"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 480
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +204,8 @@
       "publish:변경사항 게재": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:New drawing": true,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "371309103945ba9d",
