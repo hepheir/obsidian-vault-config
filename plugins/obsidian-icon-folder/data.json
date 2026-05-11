@@ -6,7 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiClipboardPen"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 1,
     "rules": [],
@@ -62,5 +62,7 @@
   "recruit/현대 오토에버/지원서": "LiFolder",
   "recruit/현대 오토에버/직무 조사": "LiFolder",
   "recruit/현대 오토에버/블로그": "LiFolder",
-  "clippings": "LiClipboardPen"
+  "clippings": "LiClipboardPen",
+  "ssafy": "LiSchool",
+  "recruit/현대 오토에버/관련 자료.base": "LiDatabase"
 }
