@@ -799,6 +799,11 @@
       "icon": "folder-open"
     },
     {
+      "id": "file-explorer:move-file",
+      "name": "다른 폴더로 파일 이동",
+      "icon": "folder-symlink"
+    },
+    {
       "id": "app:open-settings",
       "name": "설정 열기",
       "icon": "lucide-settings",
