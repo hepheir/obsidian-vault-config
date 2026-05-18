@@ -30,6 +30,16 @@
       "icon": "highlight-glyph"
     },
     {
+      "id": "editing-toolbar:superscript",
+      "name": "Toggle superscript",
+      "icon": "superscript-glyph"
+    },
+    {
+      "id": "editing-toolbar:subscript",
+      "name": "Toggle subscript",
+      "icon": "subscript-glyph"
+    },
+    {
       "id": "SubmenuCommands-fb-header",
       "name": "submenu",
       "icon": "header-n",
