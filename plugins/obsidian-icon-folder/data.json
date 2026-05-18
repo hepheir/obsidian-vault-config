@@ -66,5 +66,7 @@
   "ssafy": "LiSchool",
   "recruit/현대 오토에버/관련 자료.base": "LiDatabase",
   "recruit/현대 오토에버/어려운 질문 거리": "LiFolder",
-  "study/question-and-answer": "LiMessageCircleQuestion"
+  "study/question-and-answer": "LiMessageCircleQuestion",
+  "ssafy/Framework": "LiFolder",
+  "diagrams": "SiDiagramsdotnet"
 }
