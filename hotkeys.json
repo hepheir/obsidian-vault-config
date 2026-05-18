@@ -43,5 +43,21 @@
       "key": "F"
     }
   ],
-  "global-search:open": []
+  "global-search:open": [],
+  "editing-toolbar:editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editing-toolbar:editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
 }
