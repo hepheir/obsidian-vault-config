@@ -33,7 +33,33 @@
       "files": {
         "enabled": true,
         "icon": "LiFile",
-        "extensionRules": []
+        "extensionRules": [
+          {
+            "extension": "base",
+            "icon": "LiDatabase",
+            "enabled": true
+          },
+          {
+            "extension": "canvas",
+            "icon": "LiLayoutDashboard",
+            "enabled": true
+          },
+          {
+            "extension": "svg",
+            "icon": "LiCodeXml",
+            "enabled": true
+          },
+          {
+            "extension": "png",
+            "icon": "LiImage",
+            "enabled": true
+          },
+          {
+            "extension": "jpg",
+            "icon": "LiImage",
+            "enabled": true
+          }
+        ]
       },
       "folders": {
         "enabled": true,
