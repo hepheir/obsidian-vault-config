@@ -28,7 +28,18 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
-    "useInternalPlugins": false
+    "useInternalPlugins": false,
+    "defaultIcons": {
+      "files": {
+        "enabled": true,
+        "icon": "LiFile",
+        "extensionRules": []
+      },
+      "folders": {
+        "enabled": true,
+        "icon": "LiFolder"
+      }
+    }
   },
   "daily": "LiCalendarDays",
   "wiki": "LiLibraryBig",
