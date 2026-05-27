@@ -59,5 +59,21 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "markdown-prettifier:markdown-prettifier-run": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "l"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }
