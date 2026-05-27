@@ -75,5 +75,68 @@
       ],
       "key": "F"
     }
+  ],
+  "editing-toolbar:header1-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "editing-toolbar:header2-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "editing-toolbar:header3-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "editing-toolbar:header4-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "editing-toolbar:header5-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ],
+  "editing-toolbar:header6-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "editing-toolbar:header0-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "0"
+    }
   ]
 }
