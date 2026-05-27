@@ -181,6 +181,16 @@
               "icon": "links-coming-in",
               "title": "... 의 백링크"
             }
+          },
+          {
+            "id": "f1d5cc48cd4a7f1e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ]
       }
@@ -205,7 +215,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:New drawing": true,
       "open-vscode:VSCode": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
   "active": "371309103945ba9d",
