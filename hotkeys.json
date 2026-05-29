@@ -186,13 +186,5 @@
       "key": "H"
     }
   ],
-  "editing-toolbar:hrline": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "-"
-    }
-  ],
   "editor:toggle-checklist-status": []
 }
