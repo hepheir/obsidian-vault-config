@@ -35,3 +35,12 @@
 .markdown-embed:hover {
   box-shadow: var(--bases-cards-shadow-hover);
 }
+
+
+.sticky-headings-root {
+  margin-top: calc(var(--toolbar-icon-size) + 18px);
+}
+
+.sticky-headings-container {
+  border-bottom: 1px solid var(--bases-embed-border-color);
+}
