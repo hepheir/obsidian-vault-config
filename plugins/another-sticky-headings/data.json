@@ -1,8 +1,8 @@
 {
-  "max": 0,
+  "max": 7,
   "mode": "default",
   "scrollBehaviour": "smooth",
-  "theme": "flat",
+  "theme": "blur",
   "showIcon": true,
   "autoShowFileName": true,
   "showInStatusBar": false,
