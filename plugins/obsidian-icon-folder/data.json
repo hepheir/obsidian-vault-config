@@ -6,7 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiMessageCircleQuestion"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 1,
     "rules": [],
@@ -94,5 +94,6 @@
   "clippings": "LiClipboardPen",
   "ssafy": "LiSchool",
   "study/question-and-answer": "LiMessageCircleQuestion",
-  "diagrams": "SiDiagramsdotnet"
+  "diagrams": "SiDiagramsdotnet",
+  "database": "LiDatabase"
 }
