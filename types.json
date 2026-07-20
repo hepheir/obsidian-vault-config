@@ -12,6 +12,8 @@
     "이수구분": "multitext",
     "취득학점": "number",
     "date": "datetime",
-    "last_modified_at": "datetime"
+    "last_modified_at": "datetime",
+    "신입 계약 초봉(만원)": "number",
+    "신입 영끌 초봉(만원)": "number"
   }
 }
