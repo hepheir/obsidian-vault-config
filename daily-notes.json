@@ -1,4 +1,5 @@
 {
   "folder": "daily",
-  "template": "templates/{{date}}"
+  "template": "templates/{{date}}",
+  "format": "YYYY/MM/YYYY-MM-DD"
 }
